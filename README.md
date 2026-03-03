@@ -1,4 +1,4 @@
-# TriAnswer Textbook Exercise
+# TriAnswer Textbook Exercise / TriAnswer教材範例程式
 
 This folder contains example source codes for the TriAnswer instructional and research materials, intended to support course implementation, laboratory exercises, and related research applications.
 
